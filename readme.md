@@ -10,7 +10,7 @@ emmmmm这个想必大家都有吧，office官网下载即可，可以在淘宝�
 ## Endnote
 
 网盘链接：<https://pan.baidu.com/s/1Yuy4tT7Vjb1iBgbACM2A_A>   提取码：geu6
-
+ 
 版本endnote8，破解版，按照教程安装即可
 
 ## Latex
