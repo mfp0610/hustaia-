@@ -2,6 +2,8 @@
 
 MFP‘s homework of hustaia_Document-Retrieval-and-Scientific-Paper-Writing. 
 
+本文github地址 ：<https://github.com/mfp0610/hustaia_Document-Retrieval-and-Scientific-Paper-Writing.git>
+
 structure:
 
 >latex   latex文件
