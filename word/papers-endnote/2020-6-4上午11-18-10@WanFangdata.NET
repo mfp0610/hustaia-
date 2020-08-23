@@ -1,0 +1,92 @@
+{Reference Type}: Thesis
+{Title}: 基于多级特征剪枝二叉树的脱机手写体汉字分类识别方法研究
+{Author}: 施昌宇
+{Tertiary Author}: 朱程辉
+{Publisher}: 合肥工业大学
+{Section}: 检测技术与自动化装置
+{Type of Work}: 硕士
+{Year}: 2012
+{Date}: 2012-01-01
+{Keywords}: 模式识别
+{Keywords}:  脱机手写体汉字识别技术
+{Keywords}:  多级多特征剪枝二叉树
+{Keywords}:  仿真分析
+{Abstract}: 脱机手写体汉字识别技术是模式识别领域的一个重要研究课题。由于脱机手写体汉字具有数量大、结构复杂、字体繁多和书写随意性等特点，使得脱机手写体汉字识别一直是汉字识别领域最困难问题之一。本文以脱机手写体汉字为对象，研究了一种基于多级多特征剪枝二叉树的脱机手写体汉字分类识别方法，为手写体汉字识别提供了一种新的思路。
+　　论文的主要研究工作如下：
+　　(1)在研究汉字统计特征与结构特征的基础上，定义了脱机手写体汉字像素密度特征，该特征兼顾手写体汉字的整体和局部信息，分为整体广义密度特征、分解结构(横、竖、斜)密度特征，给出了特征获取方法。
+　　(2)提出了基于多级特征剪枝二叉树的脱机手写体汉字粗分类方法。在研究了脱机手写体汉字的广义密度特征的基础上，构建了基于广义密度特征分类规则的剪枝二叉树模型，并给出了基于多级特征剪枝二叉树的脱机手写体汉字粗分类方法。
+　　(3)“一对多”SVM的脱机手写体汉字细分类识别算法的研究。提取了几种具有一定相关性的统计特征，并运用数据融合理论将其融合，作为“一对多”SVM细分类的输入，利用“一对多”算法对同类型汉字进行细分类识别。
+　　本文选用SCUT-IRAC HCCLIB手写体汉字样本库作为实验样本库，以MATLAB7.0为仿真工具对本文提出的多级特征SVM剪枝二叉树的粗分类和多特征融合的“一对多”细分类识别的方法进行了仿真实验验证，仿真结果表明此方法是可行的。
+{URL}: http://g.wanfangdata.com.cn/details/detail.do?_type=degree&id=Y2178477
+{Database Provider}: 北京万方数据股份有限公司
+{Language}: chi
+
+{Reference Type}: Thesis
+{Title}: 支持向量机算法的研究及其应用
+{Author}: 范昕炜
+{Tertiary Author}: [吴铁军, 杜树新]
+{Publisher}: 浙江大学
+{Section}: 模式识别与智能系统
+{Type of Work}: 博士
+{Year}: 2003
+{Date}: 2003-01-01
+{Keywords}: 支持向量机
+{Keywords}:  变形公式
+{Keywords}:  加权
+{Keywords}:  类别差异
+{Keywords}:  分类精度
+{Keywords}:  超球面支持向量机算法
+{Keywords}:  污水处理过程
+{Abstract}: 该文仔细研究了支持向量机理论,并针对目前一些支持向量机算法存在的缺陷,分析了产生的原因,提出了两种新的支持向量机算法,针对支持向量机算法难以处理大规模数据的问题,提出了两种新的支持向量机分类方法.并就多类别分类问题等方面开展了初步的理论研究.该文主要工作包括:(1)讨论了支持向量机理论中各种变形的支持向量机算法,对常规支持向量机公式进行变形的算法主要有C-SVM系列、v-SVM系列、One-class SVM、RSVM、WSVM和LS-SVM等算法,通过增加函数项、变量或系数等方法使公式变形,产生出各种有某一方面优势或者一定应用范围的算法.通过比较它们各自的优缺点等情况,为提出新的支持向量机算法做了理论准备.(2)介绍了超球面支持向量机算法的思想,以及超球面和超平面的区别.(3)针对某些支持向量机算法不能解决样本类别之间差异造成的不良影响的缺陷,提出了一种新的加权支持向量机算法,该算法具有补偿类别差异的优点,可应用于解决多类别分类问题.(4)提出了基于粗糙集理论和支持向量机理论的粗SVM分类方法.(5)提出了基于主成分分析方法和支持向量机理论的去噪声加权SVM分类方法.(6)把支持向量机理论应用到污水处理过程运行状态监控中去.
+{URL}: http://g.wanfangdata.com.cn/details/detail.do?_type=degree&id=Y512102
+{Database Provider}: 北京万方数据股份有限公司
+{Language}: chi
+
+{Reference Type}: Journal Article
+{Title}: 支持向量机及其应用研究综述
+{Translated Title}: Support Vector Machines and Application Research Overview
+{Author}: 祁亨年
+{Author Address}: 浙江农林大学
+{Journal}: 计算机工程
+{Translated Journal}: COMPUTER ENGINEERING
+{ISBN/ISSN}: 1000-3428
+{Year}: 2004
+{Volume}: 30
+{Issue}: 10
+{Pages}: 6-9
+{Keywords}: 支持向量机
+{Keywords}:  机器学习
+{Keywords}:  统计学习理论
+{Abstract}: 在分析支持向最机原理的基础上,分别从人脸检测、验证和识别、说话人/语音识别、文字/手写体识别、图像处理及其他应用研究等方面对SVM的应用研究进行了综述,并讨论了SVM的优点和不足,展望了其应用研究的前景.
+{URL}: http://g.wanfangdata.com.cn/details/detail.do?_type=perio&id=jsjgc200410003
+{DOI}: 10.3969/j.issn.1000-3428.2004.10.003
+{Database Provider}: 北京万方数据股份有限公司
+{Language}: chi
+
+{Reference Type}: Journal Article
+{Title}: SVM-KNN分类器——一种提高SVM分类精度的新方法
+{Translated Title}: SVM-KNN Classifier--A New Method of Improving the Accuracy of SVM Classifier
+{Author}: 李蓉
+{Author}: 叶世伟
+{Author}: 史忠植
+{Author Address}: 中国科学技术大学
+{Author Address}: 中国科学技术大学
+{Author Address}: 中国科学技术大学
+{Journal}: 电子学报
+{Translated Journal}: ACTA ELECTRONICA SINICA
+{ISBN/ISSN}: 0372-2112
+{Year}: 2002
+{Volume}: 30
+{Issue}: 5
+{Pages}: 745-748
+{Keywords}: 支持向量机
+{Keywords}:  最近邻分类
+{Keywords}:  类代表点
+{Keywords}:  核函数
+{Keywords}:  特征空间
+{Keywords}:  VC维
+{Abstract}: 本文提出了一种将支持向量机分类和最近邻分类相结合的方法,形成了一种新的分类器.首先对支持向量机进行分析可以看出它作为分类器实际相当于每类只选一个代表点的最近邻分类器,同时在对支持向量机分类时出错样本点的分布进行研究的基础上,在分类阶段计算待识别样本和最优分类超平面的距离,如果距离差大于给定阈值直接应用支持向量机分类,否则代入以每类的所有的支持向量作为代表点的K近邻分类.数值实验证明了使用支持向量机结合最近邻分类的分类器分类比单独使用支持向量机分类具有更高的分类准确率,同时可以较好地解决应用支持向量机分类时核函数参数的选择问题.
+{URL}: http://g.wanfangdata.com.cn/details/detail.do?_type=perio&id=dianzixb200205035
+{DOI}: 10.3321/j.issn:0372-2112.2002.05.035
+{Database Provider}: 北京万方数据股份有限公司
+{Language}: chi

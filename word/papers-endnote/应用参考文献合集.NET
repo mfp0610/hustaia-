@@ -1,0 +1,122 @@
+{Reference Type}: Journal Article
+{Title}: 基于卷积神经网络的SVM疾病症状分类模型
+{Translated Title}: Disease symptom classification model of SVM based on CNN
+{Author}: 张强强
+{Author}: 苏变萍
+{Author}: 李敏
+{Translated Author}: ZHANG Qiangqiang
+{Translated Author}:  SU Bianping
+{Translated Author}:  LI Min
+{Author Address}: 西安建筑科技大学
+{Author Address}: 西安建筑科技大学
+{Author Address}: 西安建筑科技大学
+{Journal}: 传感器与微系统
+{Translated Journal}: Transducer and Microsystem Technologies
+{ISBN/ISSN}: 1000-9787
+{Year}: 2020
+{Volume}: 39
+{Issue}: 3
+{Pages}: 64-67,71
+{Keywords}: 疾病症状分类
+{Keywords}:  词向量
+{Keywords}:  卷积神经网络
+{Keywords}:  支持向量机
+{Keywords}:  Skip-Gram模型
+{Abstract}: 为解决疾病症状分类时传统特征提取方法存在特征维度较高和数据稀疏的问题,以及结合卷积神经网络(CNN)和支持向量机(SVM)的优势,提出了一种基于卷积神经网络的SVM疾病症状分类模型.用Skip-Gram根据维基中文语料库训练词向量,构成疾病症状文本二维特征矩阵,即卷积神经网络的输入层;通过卷积层提取文本特征,使用1-max pooling策略在池化层得到文本的局部最优特征;将局部最优特征组成融合特征向量作为SVM分类器的输入得到分类结果.经过与传统特征提取算法和CNN算法的实验结果的对比,验证了提出的模型在准确率、召回率和F1三个评价指标上均有显著提高.
+{URL}: http://g.wanfangdata.com.cn/details/detail.do?_type=perio&id=cgqjs202003017
+{DOI}: 10.13873/J.1000-9787(2020)03-0064-04
+{Database Provider}: 北京万方数据股份有限公司
+{Language}: chi
+
+{Reference Type}: Journal Article
+{Title}: 基于经验模态分解和支持向量机的短期风电功率组合预测模型
+{Translated Title}: Combined Model Based on EMD-SVM for Short-term Wind Power Prediction
+{Author}: 叶林
+{Author}: 刘鹏
+{Author Address}: 中国农业大学
+{Author Address}: 中国农业大学
+{Journal}: 中国电机工程学报
+{Translated Journal}: Proceedings of the CSEE
+{ISBN/ISSN}: 0258-8013
+{Year}: 2011
+{Volume}: 31
+{Issue}: 31
+{Pages}: 102-108
+{Keywords}: 经验模态分解
+{Keywords}:  支持向量机
+{Keywords}:  风速
+{Keywords}:  短期风电功率预测
+{Keywords}:  组合预测模型
+{Translated Keywords}: empirical mode decomposition（EMD）
+{Translated Keywords}:  support vector machine（SVM）
+{Translated Keywords}:  wind speed
+{Translated Keywords}:  short-term wind power prediction
+{Translated Keywords}:  combined forecasting model
+{Abstract}: 针对风速序列随时间、空间呈现非平稳性变化的特征,提出一种基于经验模态分解（empirical mode decomposition,EMD）和支持向量机（support vector machine,SVM）的EMD-SVM短期风电功率组合预测方法。该方法首先利用EMD将风速序列分解为一系列相对平稳的分量,以减少不同特征信息间的相互影响;然后利用SVM法对各分量建立预测模型,针对各序列自身特点选择不同的核函数和相关参数来处理各组不同数据,以提高单个模型预测精度。最后将风速预测结果叠加并输入功率转化曲线以得到风电功率预测结果。研究结果表明,EMD-SVM组合预测模型能更好地跟踪风电功率的变化,其预测误差比单一统计模型降低了5%~10%,有效地提高了短期风电功率预测的精度。
+{Translated Abstract}: A wind power prediction method based on empirical mode decomposition（EMD） and support vector machine（SVM） is proposed to treat with the nonlinearity and nonstationarity of wind speed data.Firstly,the wind speed data is decomposed into a series of components with stationarity by using EMD to reduce the influence between different feature information.Then,different models were built and different kernel functions and parameters were chosen to deal with each group of data by using SVM in order to improve the forecasting accuracy.Finally,short term wind power forecasting was made based on wind speed data through a practical wind power curve.Case study was carried out to investigate the validity of the novel algorithm and the results illustrated that the forecasting error of EMD-SVM combined model decreased by 5%~10% compared to single statistics model.The proposed combined model can improve the short term forecasting accuracy of wind power effectively by tracking the change of wind power.
+{URL}: http://g.wanfangdata.com.cn/details/detail.do?_type=perio&id=zgdjgcxb201131012
+{Database Provider}: 北京万方数据股份有限公司
+{Language}: chi
+
+{Reference Type}: Journal Article
+{Title}: 基于支持向量机的供应链金融信用风险评信研究
+{Translated Title}: Research on Finance Credit Risk Assessment of Supply Chain Based on SVM
+{Author}: 胡海青
+{Author}: 张琅
+{Author}: 张道宏
+{Author}: 陈亮
+{Translated Author}: HU Hai-qing
+{Translated Author}:  ZHANG Lang
+{Translated Author}:  ZHANG Dao-hong
+{Translated Author}:  CHEN Liang
+{Author Address}: 西安理工大学
+{Author Address}: 西安理工大学
+{Author Address}: 西安理工大学
+{Author Address}: 中国建设银行股份有限公司
+{Journal}: 软科学
+{Translated Journal}: SOFT SCIENCE
+{ISBN/ISSN}: 1001-8409
+{Year}: 2011
+{Volume}: 25
+{Issue}: 5
+{Pages}: 26-30,36
+{Keywords}: 供应链金融
+{Keywords}:  信用风险评估
+{Keywords}:  支持向量机
+{Keywords}:  Logistic模型
+{Abstract}: 研究了在供应链金融模式下的信用风险评估,提出了综合考虑核心企业资信状况及供应链关系状况的信用风险评估指标体系,运用机器学习的方法支持向量机(SVM)建立信用风险评估模型.通过与用主成分分析和Logistic回归方法建立的信用风险评估模型进行实证结果对比,证实了基于SVM的信用风险评估体系更具有效性和优越性.
+{URL}: http://g.wanfangdata.com.cn/details/detail.do?_type=perio&id=rkx201105006
+{DOI}: 10.3969/j.issn.1001-8409.2011.05.006
+{Database Provider}: 北京万方数据股份有限公司
+{Language}: chi
+
+{Reference Type}: Journal Article
+{Title}: 基于监督学习的中文情感分类技术比较研究
+{Translated Title}: Research on Sentiment Classification of Chinese Reviews Based on Supervised Machine Learning Techniques
+{Author}: 唐慧丰
+{Author}: 谭松波
+{Author}: 程学旗
+{Translated Author}: TANG Hui-feng
+{Translated Author}:  TAN Song-bo
+{Translated Author}:  CHENG Xue-qi
+{Author Address}: 中国科学院计算技术研究所
+{Author Address}: 中国科学院计算技术研究所
+{Author Address}: 中国科学院计算技术研究所
+{Journal}: 中文信息学报
+{Translated Journal}: JOURNAL OF CHINESE INFORMATION PROCESSING
+{ISBN/ISSN}: 1003-0077
+{Year}: 2007
+{Volume}: 21
+{Issue}: 6
+{Pages}: 88-94,108
+{Keywords}: 计算机应用
+{Keywords}:  中文信息处理
+{Keywords}:  情感分类
+{Keywords}:  文本分类
+{Keywords}:  语言模型
+{Keywords}:  中文信息处理
+{Abstract}: 情感分类是一项具有较大实用价值的分类技术,它可以在一定程度上解决网络评论信息杂乱的现象,方便用户准确定位所需信息.目前针对中文情感分类的研究相对较少,其中各种有监督学习方法的分类效果以及文本特征表示方法和特征选择机制等因素对分类性能的影响更是亟待研究的问题.本文以n-gram以及名词、动词、形容词、副词作为不同的文本表示特征,以互信息、信息增益、CHI统计量和文档频率作为不同的特征选择方法,以中心向量法、KNN、Winnow、Naive Bayes和SVM作为不同的文本分类方法,在不同的特征数量和不同规模的训练集情况下,分别进行了中文情感分类实验,并对实验结果进行了比较,对比结果表明:采用BiGrams特征表示方法、信息增益特征选择方法和SVM分类方法,在足够大训练集和选择适当数量特征的情况下,情感分类能取得较好的效果.
+{URL}: http://g.wanfangdata.com.cn/details/detail.do?_type=perio&id=zwxxxb200706012
+{DOI}: 10.3969/j.issn.1003-0077.2007.06.012
+{Database Provider}: 北京万方数据股份有限公司
+{Language}: chi

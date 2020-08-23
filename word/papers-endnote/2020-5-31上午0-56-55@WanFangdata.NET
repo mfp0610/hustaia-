@@ -1,0 +1,28 @@
+{Reference Type}: Journal Article
+{Title}: 支持向量机多类分类算法研究
+{Translated Title}: On Multiclass Classification Methods for Support Vector Machines
+{Author}: 唐发明
+{Author}: 王仲东
+{Author}: 陈绵云
+{Translated Author}: TANG Fa-ming
+{Translated Author}:  WANG Zhong-dong
+{Translated Author}:  CHEN Mian-yun
+{Author Address}: 华中科技大学
+{Author Address}: 华中科技大学
+{Author Address}: 华中科技大学
+{Journal}: 控制与决策
+{Translated Journal}: CONTROL AND DECISION
+{ISBN/ISSN}: 1001-0920
+{Year}: 2005
+{Volume}: 20
+{Issue}: 7
+{Pages}: 746-749,754
+{Keywords}: 支持向量机
+{Keywords}:  多类分类
+{Keywords}:  二叉树
+{Keywords}:  多类支持向量机
+{Abstract}: 提出一种新的基于二叉树结构的支持向量(SVM)多类分类算法.该算法解决了现有主要算法所存在的不可分区域问题.为了获得较高的推广能力,必须让样本分布广的类处于二叉树的上层节点,才能获得更大的划分空间.所以,该算法采用最小超立方体和最小超球体类包含作为二叉树的生成算法.实验结果表明,该算法具有一定的优越性.
+{URL}: http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=kzyjc200507006
+{DOI}: 10.3321/j.issn:1001-0920.2005.07.006
+{Database Provider}: 北京万方数据股份有限公司
+{Language}: chi

@@ -1,0 +1,31 @@
+{Reference Type}: Journal Article
+{Title}: 基于SVM的纠错编码多分类算法的研究与应用
+{Translated Title}: The Research and Appliaction of the Multi-classification Algorithm of Error-Correcting Codes Based on Support Vector Machine
+{Author}: 祖文超
+{Author}: 苑津莎
+{Author}: 王峰
+{Author}: 刘磊
+{Author Address}: 华北电力大学
+{Author Address}: 华北电力大学
+{Author Address}: 华北电力大学
+{Author Address}: 华北电力大学
+{Journal}: 电子质量
+{Translated Journal}: Electronics Quality
+{ISBN/ISSN}: 1003-0107
+{Year}: 2012
+{Issue}: 7
+{Pages}: 38-40,47
+{Keywords}: 故障诊断
+{Keywords}:  纠错编码
+{Keywords}:  支持向量机
+{Keywords}:  DGA
+{Translated Keywords}: Fault Diagnosis
+{Translated Keywords}:  Error-correcting Codes
+{Translated Keywords}:  Support Vector Machine
+{Translated Keywords}:  DGA
+{Abstract}: 为了提高变压器故障诊断的准确率,提出了一种基于纠错编码和支持向量机相结合的多分类算法,根据SVM理论建立变压器故障诊断数学模型,首先基于纠错编码矩阵构造出若干个互不相关的子支持向量机,以提高分类模型的分类准确率。最后把变压器油中溶解气体（DGA）作为纠错编码支持向量机的训练以及测试样本,实现变压器的故障诊断,同时用UCI数据对该算法进行验证。通过VS2008和Libsvm相结合对其进行验证,结果表明该方法具有很高的分类精度。
+{Translated Abstract}: In order to enhance the accuracy rate of transformer fault diagnosis,multiclass classification algorithm,which is based upon Error-correcting codes connects with SVM,has been proposedThe mathe-matical model of transformer fault diagnosis is set up according to the theory of Support Vector Machine. Firstly,the Error-correcting codes matrix constructs some irrelevant Support Vector Machine,so that the accuracy rate of classified model can be enhanced.Finally,taking the dissolved gases in the transformer oil as the practise and testing sample of Error-correcting codes and SVM to realize transformer fault diagno- sis.And checking the arithmetic by using UCI data.The multiclass classification algorithm has been verified through VS2008 combined with Libsvm has been verified.And the result shows the method has high ac- curacy of classification.
+{URL}: http://g.wanfangdata.com.cn/details/detail.do?_type=perio&id=dzzl201207014
+{DOI}: 10.3969/j.issn.1003-0107.2012.07.014
+{Database Provider}: 北京万方数据股份有限公司
+{Language}: chi

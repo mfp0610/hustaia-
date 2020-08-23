@@ -1,0 +1,122 @@
+\begin{thebibliography}{10}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{1}
+\bibauthor{SMOLA A~J\@, SCH{\"O}LKOPF B}\@. \bibtitle{A tutorial on support
+  vector regression}\bibmark{[J]}\@. \bibjournal{Statistics and computing}\@,
+  \bibyear{2004}\@, \bibvolume{14}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{199\thinspace{}\textnormal{--}\thinspace{}222}\@.
+
+\bibitem{2}
+\bibauthor{叶林\@, 刘鹏}\@.
+  \bibtitle{基于经验模态分解和支持向量机的短期风电功率组合预测模型}\bibmark{[J]}\@.
+  \bibjournal{中国电机工程学报}\@, \bibyear{2011}\@,
+  \bibvolume{31}\bibnumber{(31)}\thinspace{}\textnormal{:
+  }\bibpages{102\thinspace{}\textnormal{--}\thinspace{}108}\@.
+
+\bibitem{3}
+\bibauthor{张强强\@, 苏变萍\@, 李敏}\@.
+  \bibtitle{基于卷积神经网络的 SVM
+  疾病症状分类模型}\bibmark{[J]}\@.
+  \bibjournal{传感器与微系统}\@,
+  \bibyear{2020}\bibnumber{(3)}\thinspace{}\textnormal{: }\bibpages{17}\@.
+
+\bibitem{4}
+\bibauthor{胡海青\@, 张琅\@, 张道宏, et~al}\@.
+  \bibtitle{基于支持向量机的供应链金融信用风险评估研究}\bibmark{[D]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibschool{[s.n.]}\@,
+  \bibyear{2011}\@.
+
+\bibitem{5}
+\bibauthor{张学工}\@.
+  \bibtitle{关于统计学习理论与支持向量机}\bibmark{[J]}\@.
+  \bibjournal{自动化学报}\@, \bibyear{2000}\@,
+  \bibvolume{26}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{32\thinspace{}\textnormal{--}\thinspace{}42}\@.
+
+\bibitem{6}
+\bibauthor{BURGES C~J}\@. \bibtitle{A tutorial on support vector machines for
+  pattern recognition}\bibmark{[J]}\@. \bibjournal{Data mining and knowledge
+  discovery}\@, \bibyear{1998}\@,
+  \bibvolume{2}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{121\thinspace{}\textnormal{--}\thinspace{}167}\@.
+
+\bibitem{7}
+\bibauthor{王国胜}\@.
+  \bibtitle{支持向量机的理论与算法研究}\bibmark{[D]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibschool{北京邮电大学}\@, \bibyear{2007}\@.
+
+\bibitem{8}
+\bibauthor{FRANC V\@, HLAV{\'A}C V}\@. \bibtitle{Multi-class support vector
+  machine}\bibmark{[C]} //\thinspace{}\bibbooktitle{Object recognition
+  supported by user interaction for service robots\thinspace{}\textnormal{:
+  }Vol~2}\@. \bibyear{2002}\thinspace{}\textnormal{:
+  }\bibpages{236\thinspace{}\textnormal{--}\thinspace{}239}\@.
+
+\bibitem{9}
+\bibauthor{HSU C-W\@, LIN C-J}\@. \bibtitle{A comparison of methods for
+  multiclass support vector machines}\bibmark{[J]}\@. \bibjournal{IEEE
+  transactions on Neural Networks}\@, \bibyear{2002}\@,
+  \bibvolume{13}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{415\thinspace{}\textnormal{--}\thinspace{}425}\@.
+
+\bibitem{10}
+\bibauthor{杨智明\@, 彭喜元}\@.
+  \bibtitle{面向不平衡数据的支持向量机分类方法研究}\bibmark{[D]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibschool{哈尔滨:
+  哈尔滨工业大学}\@, \bibyear{2009}\@.
+
+\bibitem{11}
+\bibauthor{郑勇涛\@, 刘玉树}\@.
+  \bibtitle{支持向量机解决多分类问题研究}\bibmark{[J]}\@.
+  \bibjournal{计算机工程与应用}\@, \bibyear{2005}\@,
+  \bibvolume{41}\bibnumber{(23)}\thinspace{}\textnormal{:
+  }\bibpages{190\thinspace{}\textnormal{--}\thinspace{}192}\@.
+
+\bibitem{12}
+\bibauthor{ROCHA A\@, GOLDENSTEIN S~K}\@. \bibtitle{Multiclass from binary:
+  Expanding one-versus-all, one-versus-one and ecoc-based
+  approaches}\bibmark{[J]}\@. \bibjournal{IEEE Transactions on Neural Networks
+  and Learning Systems}\@, \bibyear{2013}\@,
+  \bibvolume{25}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{289\thinspace{}\textnormal{--}\thinspace{}302}\@.
+
+\bibitem{13}
+\bibauthor{PLATT J~C\@, CRISTIANINI N\@, SHAWE-TAYLOR J}\@. \bibtitle{Large
+  margin DAGs for multiclass classification}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{Advances in neural information processing
+  systems}\@. \bibyear{2000}\thinspace{}\textnormal{:
+  }\bibpages{547\thinspace{}\textnormal{--}\thinspace{}553}\@.
+
+\bibitem{14}
+\bibauthor{唐发明}\@.
+  \bibtitle{基于统计学习理论的支持向量机算法研究}\bibmark{[J]}\@.
+  \bibjournal{武汉: 华中科技大学}\@,
+  \bibyear{2005}\thinspace{}\textnormal{:
+  }\bibpages{25\thinspace{}\textnormal{--}\thinspace{}38}\@.
+
+\end{thebibliography}

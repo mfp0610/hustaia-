@@ -1,0 +1,48 @@
+{Reference Type}: Journal Article
+{Title}: 关于统计学习理论与支持向量机
+{Translated Title}: INTRODUCTION TO STATISTICAL LEARNING THEORY AND SUPPORT VECTOR MACHINES
+{Author}: 张学工
+{Translated Author}: ZHANG Xuegong
+{Author Address}: 清华大学
+{Journal}: 自动化学报
+{Translated Journal}: ACTA AUTOMATICA SINICA
+{ISBN/ISSN}: 0254-4156
+{Year}: 2000
+{Volume}: 26
+{Issue}: 1
+{Pages}: 32-42
+{Keywords}: 统计学习理论
+{Keywords}:  支持向量机
+{Keywords}:  机器学习
+{Keywords}:  模式识别
+{Abstract}: 模式识别、函数拟合及概率密度估计等都属于基于数据学习的问题,现有方法的重要基础是传统的统计学,前提是有足够多样本,当样本数目有限时难以取得理想的效果.统计学习理论(SLT)是由Vapnik等人提出的一种小样本统计理论,着重研究在小样本情况下的统计规律及学习方法性质.SLT为机器学习问题建立了一个较好的理论框架,也发展了一种新的通用学习算法--支持向量机(SVM),能够较好的解决小样本学习问题.目前,SLT和SVM已成为国际上机器学习领域新的研究热点.本文是一篇综述,旨在介绍SLT和SVM的基本思想、特点和研究发展现状,以引起国内学者的进一步关注.
+{URL}: http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=zdhxb200001005
+{Database Provider}: 北京万方数据股份有限公司
+{Language}: chi
+
+{Reference Type}: Journal Article
+{Title}: 基于SVM技术实现手写数字分类识别的研究
+{Translated Title}: Research on Classification and Recognition of Handwritten Digits Based on SVM Technology
+{Author}: 杨永琪
+{Author}: 徐欣蕾
+{Author}: 陈曦
+{Translated Author}: YANG Yong-qi
+{Translated Author}:  XU Xin-lei
+{Translated Author}:  CHEN Xi
+{Author Address}: 山东科技大学
+{Author Address}: 山东科技大学
+{Author Address}: 山东科技大学
+{Journal}: 电脑知识与技术
+{Translated Journal}: Computer Knowledge and Technology
+{ISBN/ISSN}: 1009-3044
+{Year}: 2020
+{Volume}: 16
+{Issue}: 6
+{Pages}: 195-196
+{Keywords}: 手写数字识别
+{Keywords}:  支持向量机
+{Keywords}:  核函数
+{Abstract}: 支持向量机(SVM)是一种二分类模型,通过在给定的特征空间中找到两个类别的数据样本之间的最大间隔超平面,可以使任何两个类别线性地分离.该文提出了不同核函数的SVM的分类模型,用于识别不同类型的手写识别数字图案.在此模型中,使用Sklearn模块中现有结构作为训练的特征提取器,而核函数SVM的执行作为识别器,该模型自动从原始手写数字集图像中提取特征并生成预测,通过MNIST数字数据库进行了验证,并经多个核函数和惩罚系数的调整、拟合得到了较高的预测分类准确率,最终呈现的预测结果准确率达98.3％.
+{URL}: http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=dnzsyjs-itrzyksb202006087
+{Database Provider}: 北京万方数据股份有限公司
+{Language}: chi

@@ -1,0 +1,18 @@
+{Reference Type}: Journal Article
+{Title}: 基于SVM的手写数字识别
+{Author}: 陈虹州
+{Author Address}: 杭州师范大学
+{Journal}: 电子制作
+{Translated Journal}: Practical Electronics
+{ISBN/ISSN}: 1006-5059
+{Year}: 2019
+{Issue}: 18
+{Pages}: 49-51,53
+{Keywords}: 手写体数字识别
+{Keywords}:  支持向量机
+{Keywords}:  机器学习
+{Abstract}: 随着科学技术水平的不断发展,手写体数字的识别技术被越来越频繁地应用于各行各业发展中.邮政编码,银行支票等都可通过手写体数字识别技术进行数字识别,从而提高效率,节省大量的人力、物力和财力.支持向量机作为经典的有监督机器学习方法之一,其能在小样本空间下保持良好的性能,且具备强鲁棒性的优点.本文将支持向量机应用于手写体数字识别中,对MINIST数据集进行训练,并分析四种核函数以及OVO,OVR解决多分类问题的方式对训练时间以及识别精度的影响,为其他研究人员提供参考.
+{URL}: http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=dzzz201918019
+{DOI}: 10.3969/j.issn.1006-5059.2019.18.019
+{Database Provider}: 北京万方数据股份有限公司
+{Language}: chi

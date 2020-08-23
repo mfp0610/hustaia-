@@ -1,0 +1,24 @@
+{Reference Type}: Journal Article
+{Title}: 支持向量机解决多分类问题研究
+{Translated Title}: An Analysis of Multi-class Support Vector Machines
+{Author}: 郑勇涛
+{Author}: 刘玉树
+{Translated Author}: Zheng Yongtao
+{Translated Author}:  Liu Yushu
+{Author Address}: 北京理工大学
+{Author Address}: 北京理工大学
+{Journal}: 计算机工程与应用
+{Translated Journal}: COMPUTER ENGINEERING AND APPLICATIONS
+{ISBN/ISSN}: 1002-8331
+{Year}: 2005
+{Volume}: 41
+{Issue}: 23
+{Pages}: 190-192
+{Keywords}: 支持向量机
+{Keywords}:  多类分类
+{Keywords}:  统计学习理论
+{Abstract}: 支持向量机(SVM)是建立在统计学习理论基础上的一种小样本机器学习方法,用于解决二分类问题.但在解决实际问题中遇到的多为多分类问题,通过研究现有提出的一些支持向量机多分类的方法,并进行分析比较,在一对一分类方法基础上提出具有容噪声的分类方法,通过标准数据集实验加以验证.
+{URL}: http://g.wanfangdata.com.cn/details/detail.do?_type=perio&id=jsjgcyyy200523058
+{DOI}: 10.3321/j.issn:1002-8331.2005.23.058
+{Database Provider}: 北京万方数据股份有限公司
+{Language}: chi
