@@ -1,8 +1,8 @@
-# hustaia_Document-Retrieval-and-Scientific-Paper-Writing
+# (HUSTAIA) Document Retrieval and Scientific Paper Writing
 
-MFP‘s homework of hustaia_Document-Retrieval-and-Scientific-Paper-Writing. 
+Meng‘s homework of Document Retrieval and Scientific Paper Writing class, HUSTAIA. 
 
-本文github地址 ：<https://github.com/mfp0610/hustaia_Document-Retrieval-and-Scientific-Paper-Writing.git>
+[github link](https://github.com/mfp0610/hustaia_paper-writing)
 
 structure:
 
